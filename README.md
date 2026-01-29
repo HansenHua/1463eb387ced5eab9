@@ -1,4 +1,4 @@
-# FedAgent: Personalized Federated Agent Learning
+# Efficient Meta-Reinforcement Learning for Agentic Adaptation
 
 ## demonstration of booking ticket
 
