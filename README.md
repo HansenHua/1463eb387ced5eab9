@@ -25,7 +25,7 @@ sh run_dpo.sh
 ## main results
 
 ### number of agents
-![](./number_agent.png)
+![](./number_agent_7B.png)
 
 ### convergence results
 
